@@ -139,6 +139,10 @@ ArangoDB allows application developers to write their data access and domain log
 - [Arangler](https://github.com/internalfx/arangler) - A command line tool to ease development and administration.
 
 ![divider](divider.small.png)
+#### Database migrations
+- [arango-migrate](https://github.com/TimMikeladze/arango-migrate) -  A database migration toolkit. Create and apply migrations in a transaction-safe manner with optional before/after hooks and dry-run support. Written in TypeScript. 
+
+![divider](divider.small.png)
 #### ORMs, ODMs and similar
 - [type-arango](https://github.com/RienNeVaPlus/type-arango) - Powerful decorators for ArangoDB Foxx Apps when working with TypeScript.
 - [orongo](https://github.com/roboncode/orango) - ArangoDB Object Modeling for Node.js, Foxx and Modern Web Browsers.
